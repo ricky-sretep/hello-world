@@ -2,3 +2,4 @@
 # Batteries not included. #YangGang2020.
 
 print("Hello World!")
+print("Goodbye World!")
